@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RN4020)(type Legacy)(uri /home/michaelpollind/projects/MiniGyro/hardware/RN4020.lib)(options "")(descr ""))
+  (lib (name mpu-9250)(type Legacy)(uri /home/michaelpollind/projects/MiniGyro/hardware/mpu-9250.lib)(options "")(descr ""))
+)
